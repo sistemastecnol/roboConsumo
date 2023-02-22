@@ -1,0 +1,276 @@
+1675170369900	geckodriver	INFO	Listening on 127.0.0.1:60202
+1675170373039	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60203" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LUCIVA~1.SAN\\AppData\\Local\\Temp\\rust_mozprofilemugNSU"
+1675170373834	Marionette	INFO	Marionette enabled
+1675170373843	Marionette	INFO	Listening on port 60213
+Read port: 60213
+WebDriver BiDi listening on ws://127.0.0.1:60203
+1675170374011	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LUCIVA~1.SAN\\AppData\\Local\\Temp\\rust_mozprofilemugNSU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60203/devtools/browser/d2353cfc-d1e7-4281-acd5-ad97459818ec
+1675170904364	Marionette	INFO	Stopped listening on port 60213
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1675170916478	geckodriver	INFO	Listening on 127.0.0.1:60456
+1675170919537	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60457" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LUCIVA~1.SAN\\AppData\\Local\\Temp\\rust_mozprofilex1x2Ia"
+1675170920058	Marionette	INFO	Marionette enabled
+1675170920066	Marionette	INFO	Listening on port 60466
+Read port: 60466
+WebDriver BiDi listening on ws://127.0.0.1:60457
+1675170920202	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LUCIVA~1.SAN\\AppData\\Local\\Temp\\rust_mozprofilex1x2Ia\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60457/devtools/browser/4d55d404-114c-4ec9-984d-8a1e2fb8c872
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://safedataanalytics.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://safedataanalytics.com.br."
+SourceActor threw an exception: Error: Failed to fetch https://safedataanalytics.com.br/. Code 2152924148.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:557:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 557, column: 16
+console.error: (new Error("Failed to fetch https://safedataanalytics.com.br/. Code 2152924148.", "resource://devtools/shared/DevToolsUtils.js", 557))
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 557: Error: Failed to fetch https://safedataanalytics.com.br/. Code 2152924148.
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:313:10
+
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 560: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1675171273068	Marionette	INFO	Stopped listening on port 60466
+1675171355156	geckodriver	INFO	Listening on 127.0.0.1:60543
+1675171358272	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60544" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LUCIVA~1.SAN\\AppData\\Local\\Temp\\rust_mozprofileL39sIZ"
+1675171358695	Marionette	INFO	Marionette enabled
+1675171358703	Marionette	INFO	Listening on port 60553
+Read port: 60553
+WebDriver BiDi listening on ws://127.0.0.1:60544
+1675171358842	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LUCIVA~1.SAN\\AppData\\Local\\Temp\\rust_mozprofileL39sIZ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60544/devtools/browser/7f6be63f-1285-4c31-8e80-d83817d14bac
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://safedataanalytics.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://safedataanalytics.com.br."
+SourceActor threw an exception: Error: Failed to fetch https://safedataanalytics.com.br/report/financial. Code 2152924148.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:557:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 557, column: 16
+console.error: (new Error("Failed to fetch https://safedataanalytics.com.br/report/financial. Code 2152924148.", "resource://devtools/shared/DevToolsUtils.js", 557))
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 557: Error: Failed to fetch https://safedataanalytics.com.br/report/financial. Code 2152924148.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 560: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1675173364829	Marionette	INFO	Stopped listening on port 60553
+1675173370410	geckodriver	INFO	Listening on 127.0.0.1:50324
+1675173373501	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50325" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LUCIVA~1.SAN\\AppData\\Local\\Temp\\rust_mozprofile8vBlkZ"
+1675173374064	Marionette	INFO	Marionette enabled
+1675173374073	Marionette	INFO	Listening on port 50334
+Read port: 50334
+WebDriver BiDi listening on ws://127.0.0.1:50325
+1675173374242	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LUCIVA~1.SAN\\AppData\\Local\\Temp\\rust_mozprofile8vBlkZ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50325/devtools/browser/3b3c9509-b867-451f-9977-9529b774f9eb
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://safedataanalytics.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://safedataanalytics.com.br."
+SourceActor threw an exception: Error: Failed to fetch https://safedataanalytics.com.br/report/financial. Code 2152924148.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:557:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 557, column: 16
+console.error: (new Error("Failed to fetch https://safedataanalytics.com.br/report/financial. Code 2152924148.", "resource://devtools/shared/DevToolsUtils.js", 557))
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 557: Error: Failed to fetch https://safedataanalytics.com.br/report/financial. Code 2152924148.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 560: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1675173901660	Marionette	INFO	Stopped listening on port 50334
+1675173911946	geckodriver	INFO	Listening on 127.0.0.1:50551
+1675173915080	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50552" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LUCIVA~1.SAN\\AppData\\Local\\Temp\\rust_mozprofileAfEQru"
+1675173915601	Marionette	INFO	Marionette enabled
+1675173915609	Marionette	INFO	Listening on port 50565
+Read port: 50565
+WebDriver BiDi listening on ws://127.0.0.1:50552
+1675173915748	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LUCIVA~1.SAN\\AppData\\Local\\Temp\\rust_mozprofileAfEQru\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50552/devtools/browser/ea2ebb82-9861-446f-8b61-8c93e4478d26
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://safedataanalytics.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://safedataanalytics.com.br."
+SourceActor threw an exception: Error: Failed to fetch https://safedataanalytics.com.br/report/financial. Code 2152924148.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:557:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 557, column: 16
+console.error: (new Error("Failed to fetch https://safedataanalytics.com.br/report/financial. Code 2152924148.", "resource://devtools/shared/DevToolsUtils.js", 557))
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 557: Error: Failed to fetch https://safedataanalytics.com.br/report/financial. Code 2152924148.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 560: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1675174441055	Marionette	INFO	Stopped listening on port 50565
+1675174447982	geckodriver	INFO	Listening on 127.0.0.1:50649
+1675174451050	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50650" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LUCIVA~1.SAN\\AppData\\Local\\Temp\\rust_mozprofileCcDVim"
+1675174451551	Marionette	INFO	Marionette enabled
+1675174451559	Marionette	INFO	Listening on port 50659
+Read port: 50659
+WebDriver BiDi listening on ws://127.0.0.1:50650
+1675174451700	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LUCIVA~1.SAN\\AppData\\Local\\Temp\\rust_mozprofileCcDVim\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50650/devtools/browser/a6b19689-b8b4-4a7b-a291-54a08c9b3143
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://safedataanalytics.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://safedataanalytics.com.br."
+SourceActor threw an exception: Error: Failed to fetch https://safedataanalytics.com.br/report/financial. Code 2152924148.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:557:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 557, column: 16
+console.error: (new Error("Failed to fetch https://safedataanalytics.com.br/report/financial. Code 2152924148.", "resource://devtools/shared/DevToolsUtils.js", 557))
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 557: Error: Failed to fetch https://safedataanalytics.com.br/report/financial. Code 2152924148.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 560: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1675174829633	Marionette	INFO	Stopped listening on port 50659
+1675174937241	geckodriver	INFO	Listening on 127.0.0.1:50820
+1675174940301	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50821" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LUCIVA~1.SAN\\AppData\\Local\\Temp\\rust_mozprofileb1Ykay"
+1675174940721	Marionette	INFO	Marionette enabled
+1675174940729	Marionette	INFO	Listening on port 50830
+Read port: 50830
+WebDriver BiDi listening on ws://127.0.0.1:50821
+1675174940869	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LUCIVA~1.SAN\\AppData\\Local\\Temp\\rust_mozprofileb1Ykay\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50821/devtools/browser/7ab656af-d737-4173-9639-d37c1e14c189
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://safedataanalytics.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://safedataanalytics.com.br."
+SourceActor threw an exception: Error: Failed to fetch https://safedataanalytics.com.br/report/financial. Code 2152924148.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:557:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 557, column: 16
+console.error: (new Error("Failed to fetch https://safedataanalytics.com.br/report/financial. Code 2152924148.", "resource://devtools/shared/DevToolsUtils.js", 557))
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 557: Error: Failed to fetch https://safedataanalytics.com.br/report/financial. Code 2152924148.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 560: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1675175796208	Marionette	INFO	Stopped listening on port 50830
+1675175799135	geckodriver	INFO	Listening on 127.0.0.1:51146
+1675175802218	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51147" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LUCIVA~1.SAN\\AppData\\Local\\Temp\\rust_mozprofileGjO1YQ"
+1675175802724	Marionette	INFO	Marionette enabled
+1675175802732	Marionette	INFO	Listening on port 51156
+Read port: 51156
+WebDriver BiDi listening on ws://127.0.0.1:51147
+1675175802870	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LUCIVA~1.SAN\\AppData\\Local\\Temp\\rust_mozprofileGjO1YQ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51147/devtools/browser/a33d4d0d-989b-40b1-894c-2bc1efcd4b3e
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://safedataanalytics.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://safedataanalytics.com.br."
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 560: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1675182609701	Marionette	INFO	Stopped listening on port 51156
+1675182613862	geckodriver	INFO	Listening on 127.0.0.1:52694
+1675182616935	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52695" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LUCIVA~1.SAN\\AppData\\Local\\Temp\\rust_mozprofilel5wvtP"
+1675182617537	Marionette	INFO	Marionette enabled
+1675182617545	Marionette	INFO	Listening on port 52704
+Read port: 52704
+WebDriver BiDi listening on ws://127.0.0.1:52695
+1675182617697	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LUCIVA~1.SAN\\AppData\\Local\\Temp\\rust_mozprofilel5wvtP\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52695/devtools/browser/509b95b8-46cd-4f9d-a45a-80feefaf21e1
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://safedataanalytics.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://safedataanalytics.com.br."
+1675183269828	Marionette	INFO	Stopped listening on port 52704
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1675183276913	geckodriver	INFO	Listening on 127.0.0.1:53282
+1675183279975	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53283" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LUCIVA~1.SAN\\AppData\\Local\\Temp\\rust_mozprofile2oFIZx"
+1675183280521	Marionette	INFO	Marionette enabled
+1675183280531	Marionette	INFO	Listening on port 53292
+Read port: 53292
+WebDriver BiDi listening on ws://127.0.0.1:53283
+1675183280689	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LUCIVA~1.SAN\\AppData\\Local\\Temp\\rust_mozprofile2oFIZx\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53283/devtools/browser/417bda7c-5e58-41d1-9481-7df308a63dc4
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://safedataanalytics.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://safedataanalytics.com.br."
+1675183447571	Marionette	INFO	Stopped listening on port 53292
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1675183450580	geckodriver	INFO	Listening on 127.0.0.1:53354
+1675183453657	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53355" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LUCIVA~1.SAN\\AppData\\Local\\Temp\\rust_mozprofile4lVO3D"
+1675183454086	Marionette	INFO	Marionette enabled
+1675183454094	Marionette	INFO	Listening on port 53364
+Read port: 53364
+WebDriver BiDi listening on ws://127.0.0.1:53355
+1675183454232	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LUCIVA~1.SAN\\AppData\\Local\\Temp\\rust_mozprofile4lVO3D\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53355/devtools/browser/0bf0ddec-bf9e-4917-9ee8-c69f353281f5
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://safedataanalytics.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://safedataanalytics.com.br."
+1675183671779	Marionette	INFO	Stopped listening on port 53364
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1675183677599	geckodriver	INFO	Listening on 127.0.0.1:53427
+1675183680713	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53428" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LUCIVA~1.SAN\\AppData\\Local\\Temp\\rust_mozprofileJET5OS"
+1675183681133	Marionette	INFO	Marionette enabled
+1675183681142	Marionette	INFO	Listening on port 53437
+Read port: 53437
+WebDriver BiDi listening on ws://127.0.0.1:53428
+1675183681279	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LUCIVA~1.SAN\\AppData\\Local\\Temp\\rust_mozprofileJET5OS\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53428/devtools/browser/dc6bd7d0-00af-4628-b40e-29be28574586
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://safedataanalytics.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://safedataanalytics.com.br."
+1675184191851	Marionette	INFO	Stopped listening on port 53437
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1675184200680	geckodriver	INFO	Listening on 127.0.0.1:52390
+1675184203783	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52391" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LUCIVA~1.SAN\\AppData\\Local\\Temp\\rust_mozprofileYMAUGU"
+1675184204307	Marionette	INFO	Marionette enabled
+1675184204314	Marionette	INFO	Listening on port 52400
+Read port: 52400
+WebDriver BiDi listening on ws://127.0.0.1:52391
+1675184204455	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LUCIVA~1.SAN\\AppData\\Local\\Temp\\rust_mozprofileYMAUGU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52391/devtools/browser/9dac7135-1547-4827-86d6-c0822a7b3dc8
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://safedataanalytics.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://safedataanalytics.com.br."
+1675184499403	Marionette	INFO	Stopped listening on port 52400
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1675184505192	geckodriver	INFO	Listening on 127.0.0.1:52512
+1675184508291	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52513" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LUCIVA~1.SAN\\AppData\\Local\\Temp\\rust_mozprofilefvK18Q"
+1675184508748	Marionette	INFO	Marionette enabled
+1675184508756	Marionette	INFO	Listening on port 52522
+Read port: 52522
+WebDriver BiDi listening on ws://127.0.0.1:52513
+1675184508894	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LUCIVA~1.SAN\\AppData\\Local\\Temp\\rust_mozprofilefvK18Q\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52513/devtools/browser/b6567e2a-586d-44cc-b5a2-f45dae8de660
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://safedataanalytics.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://safedataanalytics.com.br."
+1675184756611	Marionette	INFO	Stopped listening on port 52522
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1675184759295	geckodriver	INFO	Listening on 127.0.0.1:52618
+1675184762380	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52619" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LUCIVA~1.SAN\\AppData\\Local\\Temp\\rust_mozprofileVwlq64"
+1675184762878	Marionette	INFO	Marionette enabled
+1675184762887	Marionette	INFO	Listening on port 52628
+Read port: 52628
+WebDriver BiDi listening on ws://127.0.0.1:52619
+1675184763027	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LUCIVA~1.SAN\\AppData\\Local\\Temp\\rust_mozprofileVwlq64\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52619/devtools/browser/49a792f5-a895-42fc-81f5-1f75f7568688
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://safedataanalytics.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://safedataanalytics.com.br."
+1675185113882	Marionette	INFO	Stopped listening on port 52628
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1675185116799	geckodriver	INFO	Listening on 127.0.0.1:52738
+1675185119899	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52739" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LUCIVA~1.SAN\\AppData\\Local\\Temp\\rust_mozprofile2aGQzb"
+1675185120336	Marionette	INFO	Marionette enabled
+1675185120344	Marionette	INFO	Listening on port 52748
+Read port: 52748
+WebDriver BiDi listening on ws://127.0.0.1:52739
+1675185120481	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LUCIVA~1.SAN\\AppData\\Local\\Temp\\rust_mozprofile2aGQzb\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52739/devtools/browser/508c2280-f58e-4de2-891c-d77725e3469a
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://safedataanalytics.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://safedataanalytics.com.br."
+1675186023059	Marionette	INFO	Stopped listening on port 52748
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1675186026615	geckodriver	INFO	Listening on 127.0.0.1:53059
+1675186029749	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53060" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LUCIVA~1.SAN\\AppData\\Local\\Temp\\rust_mozprofileIf0DHE"
+1675186030265	Marionette	INFO	Marionette enabled
+1675186030272	Marionette	INFO	Listening on port 53070
+Read port: 53070
+WebDriver BiDi listening on ws://127.0.0.1:53060
+1675186030410	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LUCIVA~1.SAN\\AppData\\Local\\Temp\\rust_mozprofileIf0DHE\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53060/devtools/browser/6b9d6a4b-278a-4d46-8f5c-509aedba56e9
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://safedataanalytics.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://safedataanalytics.com.br."
+1675186574555	Marionette	INFO	Stopped listening on port 53070
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1675186577441	geckodriver	INFO	Listening on 127.0.0.1:53198
+1675186580558	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53199" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\LUCIVA~1.SAN\\AppData\\Local\\Temp\\rust_mozprofileMmZQ7Q"
+1675186581109	Marionette	INFO	Marionette enabled
+1675186581117	Marionette	INFO	Listening on port 53208
+Read port: 53208
+WebDriver BiDi listening on ws://127.0.0.1:53199
+1675186581253	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\LUCIVA~1.SAN\\AppData\\Local\\Temp\\rust_mozprofileMmZQ7Q\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53199/devtools/browser/f0409038-7a11-4713-8f4f-d63de199d77f
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://safedataanalytics.com.br."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://safedataanalytics.com.br."
+1675199247210	Marionette	INFO	Stopped listening on port 53208
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
